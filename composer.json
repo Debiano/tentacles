@@ -1,28 +1,31 @@
 {
-	"name": "greabock/tentacles",
-	"description": "Da epic tentacles for Eloquent",
+	"name": "debiano/tentacles",
+	"description": "a tentacles for Eloquent",
 	"keywords": [
 		"laravel",
 		"eloquent",
 		"trait",
 		"model"
 	],
-	"license": "MIT",
+	"license": "GNU",
 	"authors": [
 		{
 			"name": "Greabock",
 			"email": "greabock@gmail.com"
+		},
+		{
+			"name": "Debiano"
 		}
 	],
 	"require": {
-		"php": ">=5.5.0",
-		"illuminate/support" : "5.*",
-		"illuminate/database" : "5.*"
+		"php": ">=7.0.0",
+		"illuminate/support" : "7.*",
+		"illuminate/database" : "7.*"
 	},
 
 	"autoload": {
 		"psr-4": {
-			"Greabock\\Tentacles\\": "src/"
+			"Debiano\\Tentacles\\": "src/"
 		}
 	},
 

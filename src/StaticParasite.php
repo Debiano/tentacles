@@ -1,6 +1,6 @@
 <?php 
 
-namespace Greabock\Tentacles;
+namespace Debiano\Tentacles;
 
 use Closure;
 use BadMethodCallException;

@@ -1,4 +1,4 @@
-<?php namespace Greabock\Tentacles;
+<?php namespace Debiano\Tentacles;
 
 use Illuminate\Support\Str;
 
